@@ -201,6 +201,15 @@ rm ~/.local/share/argent-music-player/library.db
 Distribuido bajo la licencia **GNU General Public License v3.0**.
 Consultá el archivo [`LICENSE`](LICENSE) para más detalles.
 
+## Colaborar:
+
+**🇦🇷 Desde Argentina (Mercado Pago):**
+- 💳 Alias MP: `tavo.78.ok`
+- 🔗 CVU: `0000003100099682904311`
+
+**🌎 Desde el exterior (PayPal):**
+- 💙 [paypal.me/GustavoCuevas582](https://paypal.me/GustavoCuevas582)
+
 ---
 
 <div align="center">
